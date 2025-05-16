@@ -99,7 +99,7 @@ Results (e.g., masks, labels) will be saved in output/.
 Upload a satellite image
 View prediction output in real-time
 User-friendly UI Flask
-📁 Located in:
+ Located in:
 ```bash
 /app/app.py
 ▶ Run App
