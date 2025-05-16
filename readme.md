@@ -42,13 +42,7 @@ satellite-vision/
 ##  Step-by-Step Instructions
 
 ### 1. Problem Definition
-Choose a task like:
-- Flood detection
 - Crop classification
-- Forest fire mapping
-- Urban sprawl or deforestation
-
-Update `/docs/problem_statement.md` accordingly.
 
 ---
 
